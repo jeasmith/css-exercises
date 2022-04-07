@@ -4,6 +4,20 @@ These exercises are a series of CSS related tasks intended to complement the HTM
 
 When doing these exercises, please use all the documentation and resources you need to accomplish them. You are _not_ intended to have any of this stuff memorized at this point. Check the docs, use Google, do what you need to do (besides checking the solutions) to get them done.
 
+## Completed Exercises
+### Foundations
+[CSS Methods](./foundations/01-css-methods/)
+
+[Class ID Selectors](./foundations/02-class-id-selectors/)
+
+[Group Selectors](./foundations/03-grouping-selectors/)
+
+[Chaining Selectors](./foundations/04-chaining-selectors/)
+
+[Descendant Cominator](./foundations/05-descendant-combinator/)
+
+[Cascade Fix](./foundations/06-cascade-fix/)
+
 ## Contributing
 
 If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md) in our main TOP repo.
